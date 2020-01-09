@@ -1,0 +1,16 @@
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.deps.json
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.dll
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.dll
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.pdb
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.pdb
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.dll
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.pdb
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.runtimeconfig.json
+C:\Users\SENTURK\Desktop\Komple ASP.NET Web Geliştirme Eğitimi\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.runtimeconfig.dev.json
